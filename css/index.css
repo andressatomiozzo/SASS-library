@@ -35,11 +35,19 @@ img {
   color: #326dee;
 }
 
+.text-hover-primary:hover {
+  color: #326dee;
+}
+
 .bg-primary {
   background-color: #326dee;
 }
 
 .text-primary-light-1 {
+  color: rgb(27.6470588235%, 48.4705882353%, 94%);
+}
+
+.text-hover-primary-light-1:hover {
   color: rgb(27.6470588235%, 48.4705882353%, 94%);
 }
 
@@ -51,11 +59,19 @@ img {
   color: rgb(35.6862745098%, 54.1960784314%, 94.6666666667%);
 }
 
+.text-hover-primary-light-2:hover {
+  color: rgb(35.6862745098%, 54.1960784314%, 94.6666666667%);
+}
+
 .bg-primary-light-2 {
   background-color: rgb(35.6862745098%, 54.1960784314%, 94.6666666667%);
 }
 
 .text-primary-light-3 {
+  color: rgb(43.7254901961%, 59.9215686275%, 95.3333333333%);
+}
+
+.text-hover-primary-light-3:hover {
   color: rgb(43.7254901961%, 59.9215686275%, 95.3333333333%);
 }
 
@@ -67,11 +83,19 @@ img {
   color: rgb(51.7647058824%, 65.6470588235%, 96%);
 }
 
+.text-hover-primary-light-4:hover {
+  color: rgb(51.7647058824%, 65.6470588235%, 96%);
+}
+
 .bg-primary-light-4 {
   background-color: rgb(51.7647058824%, 65.6470588235%, 96%);
 }
 
 .text-primary-light-5 {
+  color: rgb(59.8039215686%, 71.3725490196%, 96.6666666667%);
+}
+
+.text-hover-primary-light-5:hover {
   color: rgb(59.8039215686%, 71.3725490196%, 96.6666666667%);
 }
 
@@ -83,11 +107,19 @@ img {
   color: rgb(67.8431372549%, 77.0980392157%, 97.3333333333%);
 }
 
+.text-hover-primary-light-6:hover {
+  color: rgb(67.8431372549%, 77.0980392157%, 97.3333333333%);
+}
+
 .bg-primary-light-6 {
   background-color: rgb(67.8431372549%, 77.0980392157%, 97.3333333333%);
 }
 
 .text-primary-light-7 {
+  color: rgb(75.8823529412%, 82.8235294118%, 98%);
+}
+
+.text-hover-primary-light-7:hover {
   color: rgb(75.8823529412%, 82.8235294118%, 98%);
 }
 
@@ -99,11 +131,19 @@ img {
   color: rgb(83.9215686275%, 88.5490196078%, 98.6666666667%);
 }
 
+.text-hover-primary-light-8:hover {
+  color: rgb(83.9215686275%, 88.5490196078%, 98.6666666667%);
+}
+
 .bg-primary-light-8 {
   background-color: rgb(83.9215686275%, 88.5490196078%, 98.6666666667%);
 }
 
 .text-primary-light-9 {
+  color: rgb(91.9607843137%, 94.2745098039%, 99.3333333333%);
+}
+
+.text-hover-primary-light-9:hover {
   color: rgb(91.9607843137%, 94.2745098039%, 99.3333333333%);
 }
 
@@ -115,11 +155,19 @@ img {
   color: rgb(17.6470588235%, 38.4705882353%, 84%);
 }
 
+.text-hover-primary-dark-1:hover {
+  color: rgb(17.6470588235%, 38.4705882353%, 84%);
+}
+
 .bg-primary-dark-1 {
   background-color: rgb(17.6470588235%, 38.4705882353%, 84%);
 }
 
 .text-primary-dark-2 {
+  color: rgb(15.6862745098%, 34.1960784314%, 74.6666666667%);
+}
+
+.text-hover-primary-dark-2:hover {
   color: rgb(15.6862745098%, 34.1960784314%, 74.6666666667%);
 }
 
@@ -131,11 +179,19 @@ img {
   color: rgb(13.7254901961%, 29.9215686275%, 65.3333333333%);
 }
 
+.text-hover-primary-dark-3:hover {
+  color: rgb(13.7254901961%, 29.9215686275%, 65.3333333333%);
+}
+
 .bg-primary-dark-3 {
   background-color: rgb(13.7254901961%, 29.9215686275%, 65.3333333333%);
 }
 
 .text-primary-dark-4 {
+  color: rgb(11.7647058824%, 25.6470588235%, 56%);
+}
+
+.text-hover-primary-dark-4:hover {
   color: rgb(11.7647058824%, 25.6470588235%, 56%);
 }
 
@@ -147,11 +203,19 @@ img {
   color: rgb(9.8039215686%, 21.3725490196%, 46.6666666667%);
 }
 
+.text-hover-primary-dark-5:hover {
+  color: rgb(9.8039215686%, 21.3725490196%, 46.6666666667%);
+}
+
 .bg-primary-dark-5 {
   background-color: rgb(9.8039215686%, 21.3725490196%, 46.6666666667%);
 }
 
 .text-primary-dark-6 {
+  color: rgb(7.8431372549%, 17.0980392157%, 37.3333333333%);
+}
+
+.text-hover-primary-dark-6:hover {
   color: rgb(7.8431372549%, 17.0980392157%, 37.3333333333%);
 }
 
@@ -163,11 +227,19 @@ img {
   color: rgb(5.8823529412%, 12.8235294118%, 28%);
 }
 
+.text-hover-primary-dark-7:hover {
+  color: rgb(5.8823529412%, 12.8235294118%, 28%);
+}
+
 .bg-primary-dark-7 {
   background-color: rgb(5.8823529412%, 12.8235294118%, 28%);
 }
 
 .text-primary-dark-8 {
+  color: rgb(3.9215686275%, 8.5490196078%, 18.6666666667%);
+}
+
+.text-hover-primary-dark-8:hover {
   color: rgb(3.9215686275%, 8.5490196078%, 18.6666666667%);
 }
 
@@ -179,11 +251,19 @@ img {
   color: rgb(1.9607843137%, 4.2745098039%, 9.3333333333%);
 }
 
+.text-hover-primary-dark-9:hover {
+  color: rgb(1.9607843137%, 4.2745098039%, 9.3333333333%);
+}
+
 .bg-primary-dark-9 {
   background-color: rgb(1.9607843137%, 4.2745098039%, 9.3333333333%);
 }
 
 .text-secondary {
+  color: #1ac886;
+}
+
+.text-hover-secondary:hover {
   color: #1ac886;
 }
 
@@ -195,11 +275,19 @@ img {
   color: rgb(19.1764705882%, 80.5882352941%, 57.2941176471%);
 }
 
+.text-hover-secondary-light-1:hover {
+  color: rgb(19.1764705882%, 80.5882352941%, 57.2941176471%);
+}
+
 .bg-secondary-light-1 {
   background-color: rgb(19.1764705882%, 80.5882352941%, 57.2941176471%);
 }
 
 .text-secondary-light-2 {
+  color: rgb(28.1568627451%, 82.7450980392%, 62.0392156863%);
+}
+
+.text-hover-secondary-light-2:hover {
   color: rgb(28.1568627451%, 82.7450980392%, 62.0392156863%);
 }
 
@@ -211,11 +299,19 @@ img {
   color: rgb(37.137254902%, 84.9019607843%, 66.7843137255%);
 }
 
+.text-hover-secondary-light-3:hover {
+  color: rgb(37.137254902%, 84.9019607843%, 66.7843137255%);
+}
+
 .bg-secondary-light-3 {
   background-color: rgb(37.137254902%, 84.9019607843%, 66.7843137255%);
 }
 
 .text-secondary-light-4 {
+  color: rgb(46.1176470588%, 87.0588235294%, 71.5294117647%);
+}
+
+.text-hover-secondary-light-4:hover {
   color: rgb(46.1176470588%, 87.0588235294%, 71.5294117647%);
 }
 
@@ -227,11 +323,19 @@ img {
   color: rgb(55.0980392157%, 89.2156862745%, 76.2745098039%);
 }
 
+.text-hover-secondary-light-5:hover {
+  color: rgb(55.0980392157%, 89.2156862745%, 76.2745098039%);
+}
+
 .bg-secondary-light-5 {
   background-color: rgb(55.0980392157%, 89.2156862745%, 76.2745098039%);
 }
 
 .text-secondary-light-6 {
+  color: rgb(64.0784313725%, 91.3725490196%, 81.0196078431%);
+}
+
+.text-hover-secondary-light-6:hover {
   color: rgb(64.0784313725%, 91.3725490196%, 81.0196078431%);
 }
 
@@ -243,11 +347,19 @@ img {
   color: rgb(73.0588235294%, 93.5294117647%, 85.7647058824%);
 }
 
+.text-hover-secondary-light-7:hover {
+  color: rgb(73.0588235294%, 93.5294117647%, 85.7647058824%);
+}
+
 .bg-secondary-light-7 {
   background-color: rgb(73.0588235294%, 93.5294117647%, 85.7647058824%);
 }
 
 .text-secondary-light-8 {
+  color: rgb(82.0392156863%, 95.6862745098%, 90.5098039216%);
+}
+
+.text-hover-secondary-light-8:hover {
   color: rgb(82.0392156863%, 95.6862745098%, 90.5098039216%);
 }
 
@@ -259,11 +371,19 @@ img {
   color: rgb(91.0196078431%, 97.8431372549%, 95.2549019608%);
 }
 
+.text-hover-secondary-light-9:hover {
+  color: rgb(91.0196078431%, 97.8431372549%, 95.2549019608%);
+}
+
 .bg-secondary-light-9 {
   background-color: rgb(91.0196078431%, 97.8431372549%, 95.2549019608%);
 }
 
 .text-secondary-dark-1 {
+  color: rgb(9.1764705882%, 70.5882352941%, 47.2941176471%);
+}
+
+.text-hover-secondary-dark-1:hover {
   color: rgb(9.1764705882%, 70.5882352941%, 47.2941176471%);
 }
 
@@ -275,11 +395,19 @@ img {
   color: rgb(8.1568627451%, 62.7450980392%, 42.0392156863%);
 }
 
+.text-hover-secondary-dark-2:hover {
+  color: rgb(8.1568627451%, 62.7450980392%, 42.0392156863%);
+}
+
 .bg-secondary-dark-2 {
   background-color: rgb(8.1568627451%, 62.7450980392%, 42.0392156863%);
 }
 
 .text-secondary-dark-3 {
+  color: rgb(7.137254902%, 54.9019607843%, 36.7843137255%);
+}
+
+.text-hover-secondary-dark-3:hover {
   color: rgb(7.137254902%, 54.9019607843%, 36.7843137255%);
 }
 
@@ -291,11 +419,19 @@ img {
   color: rgb(6.1176470588%, 47.0588235294%, 31.5294117647%);
 }
 
+.text-hover-secondary-dark-4:hover {
+  color: rgb(6.1176470588%, 47.0588235294%, 31.5294117647%);
+}
+
 .bg-secondary-dark-4 {
   background-color: rgb(6.1176470588%, 47.0588235294%, 31.5294117647%);
 }
 
 .text-secondary-dark-5 {
+  color: #0d6443;
+}
+
+.text-hover-secondary-dark-5:hover {
   color: #0d6443;
 }
 
@@ -307,11 +443,19 @@ img {
   color: rgb(4.0784313725%, 31.3725490196%, 21.0196078431%);
 }
 
+.text-hover-secondary-dark-6:hover {
+  color: rgb(4.0784313725%, 31.3725490196%, 21.0196078431%);
+}
+
 .bg-secondary-dark-6 {
   background-color: rgb(4.0784313725%, 31.3725490196%, 21.0196078431%);
 }
 
 .text-secondary-dark-7 {
+  color: rgb(3.0588235294%, 23.5294117647%, 15.7647058824%);
+}
+
+.text-hover-secondary-dark-7:hover {
   color: rgb(3.0588235294%, 23.5294117647%, 15.7647058824%);
 }
 
@@ -323,11 +467,19 @@ img {
   color: rgb(2.0392156863%, 15.6862745098%, 10.5098039216%);
 }
 
+.text-hover-secondary-dark-8:hover {
+  color: rgb(2.0392156863%, 15.6862745098%, 10.5098039216%);
+}
+
 .bg-secondary-dark-8 {
   background-color: rgb(2.0392156863%, 15.6862745098%, 10.5098039216%);
 }
 
 .text-secondary-dark-9 {
+  color: rgb(1.0196078431%, 7.8431372549%, 5.2549019608%);
+}
+
+.text-hover-secondary-dark-9:hover {
   color: rgb(1.0196078431%, 7.8431372549%, 5.2549019608%);
 }
 
@@ -339,11 +491,19 @@ img {
   color: #d32752;
 }
 
+.text-hover-error:hover {
+  color: #d32752;
+}
+
 .bg-error {
   background-color: #d32752;
 }
 
 .text-error-light-1 {
+  color: rgb(84.4705882353%, 23.7647058824%, 38.9411764706%);
+}
+
+.text-hover-error-light-1:hover {
   color: rgb(84.4705882353%, 23.7647058824%, 38.9411764706%);
 }
 
@@ -355,11 +515,19 @@ img {
   color: rgb(86.1960784314%, 32.2352941176%, 45.7254901961%);
 }
 
+.text-hover-error-light-2:hover {
+  color: rgb(86.1960784314%, 32.2352941176%, 45.7254901961%);
+}
+
 .bg-error-light-2 {
   background-color: rgb(86.1960784314%, 32.2352941176%, 45.7254901961%);
 }
 
 .text-error-light-3 {
+  color: rgb(87.9215686275%, 40.7058823529%, 52.5098039216%);
+}
+
+.text-hover-error-light-3:hover {
   color: rgb(87.9215686275%, 40.7058823529%, 52.5098039216%);
 }
 
@@ -371,11 +539,19 @@ img {
   color: rgb(89.6470588235%, 49.1764705882%, 59.2941176471%);
 }
 
+.text-hover-error-light-4:hover {
+  color: rgb(89.6470588235%, 49.1764705882%, 59.2941176471%);
+}
+
 .bg-error-light-4 {
   background-color: rgb(89.6470588235%, 49.1764705882%, 59.2941176471%);
 }
 
 .text-error-light-5 {
+  color: rgb(91.3725490196%, 57.6470588235%, 66.0784313725%);
+}
+
+.text-hover-error-light-5:hover {
   color: rgb(91.3725490196%, 57.6470588235%, 66.0784313725%);
 }
 
@@ -387,11 +563,19 @@ img {
   color: rgb(93.0980392157%, 66.1176470588%, 72.862745098%);
 }
 
+.text-hover-error-light-6:hover {
+  color: rgb(93.0980392157%, 66.1176470588%, 72.862745098%);
+}
+
 .bg-error-light-6 {
   background-color: rgb(93.0980392157%, 66.1176470588%, 72.862745098%);
 }
 
 .text-error-light-7 {
+  color: rgb(94.8235294118%, 74.5882352941%, 79.6470588235%);
+}
+
+.text-hover-error-light-7:hover {
   color: rgb(94.8235294118%, 74.5882352941%, 79.6470588235%);
 }
 
@@ -403,11 +587,19 @@ img {
   color: rgb(96.5490196078%, 83.0588235294%, 86.431372549%);
 }
 
+.text-hover-error-light-8:hover {
+  color: rgb(96.5490196078%, 83.0588235294%, 86.431372549%);
+}
+
 .bg-error-light-8 {
   background-color: rgb(96.5490196078%, 83.0588235294%, 86.431372549%);
 }
 
 .text-error-light-9 {
+  color: rgb(98.2745098039%, 91.5294117647%, 93.2156862745%);
+}
+
+.text-hover-error-light-9:hover {
   color: rgb(98.2745098039%, 91.5294117647%, 93.2156862745%);
 }
 
@@ -419,11 +611,19 @@ img {
   color: rgb(74.4705882353%, 13.7647058824%, 28.9411764706%);
 }
 
+.text-hover-error-dark-1:hover {
+  color: rgb(74.4705882353%, 13.7647058824%, 28.9411764706%);
+}
+
 .bg-error-dark-1 {
   background-color: rgb(74.4705882353%, 13.7647058824%, 28.9411764706%);
 }
 
 .text-error-dark-2 {
+  color: rgb(66.1960784314%, 12.2352941176%, 25.7254901961%);
+}
+
+.text-hover-error-dark-2:hover {
   color: rgb(66.1960784314%, 12.2352941176%, 25.7254901961%);
 }
 
@@ -435,11 +635,19 @@ img {
   color: rgb(57.9215686275%, 10.7058823529%, 22.5098039216%);
 }
 
+.text-hover-error-dark-3:hover {
+  color: rgb(57.9215686275%, 10.7058823529%, 22.5098039216%);
+}
+
 .bg-error-dark-3 {
   background-color: rgb(57.9215686275%, 10.7058823529%, 22.5098039216%);
 }
 
 .text-error-dark-4 {
+  color: rgb(49.6470588235%, 9.1764705882%, 19.2941176471%);
+}
+
+.text-hover-error-dark-4:hover {
   color: rgb(49.6470588235%, 9.1764705882%, 19.2941176471%);
 }
 
@@ -451,11 +659,19 @@ img {
   color: rgb(41.3725490196%, 7.6470588235%, 16.0784313725%);
 }
 
+.text-hover-error-dark-5:hover {
+  color: rgb(41.3725490196%, 7.6470588235%, 16.0784313725%);
+}
+
 .bg-error-dark-5 {
   background-color: rgb(41.3725490196%, 7.6470588235%, 16.0784313725%);
 }
 
 .text-error-dark-6 {
+  color: rgb(33.0980392157%, 6.1176470588%, 12.862745098%);
+}
+
+.text-hover-error-dark-6:hover {
   color: rgb(33.0980392157%, 6.1176470588%, 12.862745098%);
 }
 
@@ -467,11 +683,19 @@ img {
   color: rgb(24.8235294118%, 4.5882352941%, 9.6470588235%);
 }
 
+.text-hover-error-dark-7:hover {
+  color: rgb(24.8235294118%, 4.5882352941%, 9.6470588235%);
+}
+
 .bg-error-dark-7 {
   background-color: rgb(24.8235294118%, 4.5882352941%, 9.6470588235%);
 }
 
 .text-error-dark-8 {
+  color: rgb(16.5490196078%, 3.0588235294%, 6.431372549%);
+}
+
+.text-hover-error-dark-8:hover {
   color: rgb(16.5490196078%, 3.0588235294%, 6.431372549%);
 }
 
@@ -483,11 +707,19 @@ img {
   color: rgb(8.2745098039%, 1.5294117647%, 3.2156862745%);
 }
 
+.text-hover-error-dark-9:hover {
+  color: rgb(8.2745098039%, 1.5294117647%, 3.2156862745%);
+}
+
 .bg-error-dark-9 {
   background-color: rgb(8.2745098039%, 1.5294117647%, 3.2156862745%);
 }
 
 .text-info {
+  color: #f6c31c;
+}
+
+.text-hover-info:hover {
   color: #f6c31c;
 }
 
@@ -499,11 +731,19 @@ img {
   color: rgb(96.8235294118%, 78.8235294118%, 19.8823529412%);
 }
 
+.text-hover-info-light-1:hover {
+  color: rgb(96.8235294118%, 78.8235294118%, 19.8823529412%);
+}
+
 .bg-info-light-1 {
   background-color: rgb(96.8235294118%, 78.8235294118%, 19.8823529412%);
 }
 
 .text-info-light-2 {
+  color: rgb(97.1764705882%, 81.1764705882%, 28.7843137255%);
+}
+
+.text-hover-info-light-2:hover {
   color: rgb(97.1764705882%, 81.1764705882%, 28.7843137255%);
 }
 
@@ -515,11 +755,19 @@ img {
   color: rgb(97.5294117647%, 83.5294117647%, 37.6862745098%);
 }
 
+.text-hover-info-light-3:hover {
+  color: rgb(97.5294117647%, 83.5294117647%, 37.6862745098%);
+}
+
 .bg-info-light-3 {
   background-color: rgb(97.5294117647%, 83.5294117647%, 37.6862745098%);
 }
 
 .text-info-light-4 {
+  color: rgb(97.8823529412%, 85.8823529412%, 46.5882352941%);
+}
+
+.text-hover-info-light-4:hover {
   color: rgb(97.8823529412%, 85.8823529412%, 46.5882352941%);
 }
 
@@ -531,11 +779,19 @@ img {
   color: rgb(98.2352941176%, 88.2352941176%, 55.4901960784%);
 }
 
+.text-hover-info-light-5:hover {
+  color: rgb(98.2352941176%, 88.2352941176%, 55.4901960784%);
+}
+
 .bg-info-light-5 {
   background-color: rgb(98.2352941176%, 88.2352941176%, 55.4901960784%);
 }
 
 .text-info-light-6 {
+  color: rgb(98.5882352941%, 90.5882352941%, 64.3921568627%);
+}
+
+.text-hover-info-light-6:hover {
   color: rgb(98.5882352941%, 90.5882352941%, 64.3921568627%);
 }
 
@@ -547,11 +803,19 @@ img {
   color: rgb(98.9411764706%, 92.9411764706%, 73.2941176471%);
 }
 
+.text-hover-info-light-7:hover {
+  color: rgb(98.9411764706%, 92.9411764706%, 73.2941176471%);
+}
+
 .bg-info-light-7 {
   background-color: rgb(98.9411764706%, 92.9411764706%, 73.2941176471%);
 }
 
 .text-info-light-8 {
+  color: rgb(99.2941176471%, 95.2941176471%, 82.1960784314%);
+}
+
+.text-hover-info-light-8:hover {
   color: rgb(99.2941176471%, 95.2941176471%, 82.1960784314%);
 }
 
@@ -563,11 +827,19 @@ img {
   color: rgb(99.6470588235%, 97.6470588235%, 91.0980392157%);
 }
 
+.text-hover-info-light-9:hover {
+  color: rgb(99.6470588235%, 97.6470588235%, 91.0980392157%);
+}
+
 .bg-info-light-9 {
   background-color: rgb(99.6470588235%, 97.6470588235%, 91.0980392157%);
 }
 
 .text-info-dark-1 {
+  color: rgb(86.8235294118%, 68.8235294118%, 9.8823529412%);
+}
+
+.text-hover-info-dark-1:hover {
   color: rgb(86.8235294118%, 68.8235294118%, 9.8823529412%);
 }
 
@@ -579,11 +851,19 @@ img {
   color: rgb(77.1764705882%, 61.1764705882%, 8.7843137255%);
 }
 
+.text-hover-info-dark-2:hover {
+  color: rgb(77.1764705882%, 61.1764705882%, 8.7843137255%);
+}
+
 .bg-info-dark-2 {
   background-color: rgb(77.1764705882%, 61.1764705882%, 8.7843137255%);
 }
 
 .text-info-dark-3 {
+  color: rgb(67.5294117647%, 53.5294117647%, 7.6862745098%);
+}
+
+.text-hover-info-dark-3:hover {
   color: rgb(67.5294117647%, 53.5294117647%, 7.6862745098%);
 }
 
@@ -595,11 +875,19 @@ img {
   color: rgb(57.8823529412%, 45.8823529412%, 6.5882352941%);
 }
 
+.text-hover-info-dark-4:hover {
+  color: rgb(57.8823529412%, 45.8823529412%, 6.5882352941%);
+}
+
 .bg-info-dark-4 {
   background-color: rgb(57.8823529412%, 45.8823529412%, 6.5882352941%);
 }
 
 .text-info-dark-5 {
+  color: rgb(48.2352941176%, 38.2352941176%, 5.4901960784%);
+}
+
+.text-hover-info-dark-5:hover {
   color: rgb(48.2352941176%, 38.2352941176%, 5.4901960784%);
 }
 
@@ -611,11 +899,19 @@ img {
   color: rgb(38.5882352941%, 30.5882352941%, 4.3921568627%);
 }
 
+.text-hover-info-dark-6:hover {
+  color: rgb(38.5882352941%, 30.5882352941%, 4.3921568627%);
+}
+
 .bg-info-dark-6 {
   background-color: rgb(38.5882352941%, 30.5882352941%, 4.3921568627%);
 }
 
 .text-info-dark-7 {
+  color: rgb(28.9411764706%, 22.9411764706%, 3.2941176471%);
+}
+
+.text-hover-info-dark-7:hover {
   color: rgb(28.9411764706%, 22.9411764706%, 3.2941176471%);
 }
 
@@ -627,11 +923,19 @@ img {
   color: rgb(19.2941176471%, 15.2941176471%, 2.1960784314%);
 }
 
+.text-hover-info-dark-8:hover {
+  color: rgb(19.2941176471%, 15.2941176471%, 2.1960784314%);
+}
+
 .bg-info-dark-8 {
   background-color: rgb(19.2941176471%, 15.2941176471%, 2.1960784314%);
 }
 
 .text-info-dark-9 {
+  color: rgb(9.6470588235%, 7.6470588235%, 1.0980392157%);
+}
+
+.text-hover-info-dark-9:hover {
   color: rgb(9.6470588235%, 7.6470588235%, 1.0980392157%);
 }
 
@@ -643,11 +947,19 @@ img {
   color: #1919e6;
 }
 
+.text-hover-blue:hover {
+  color: #1919e6;
+}
+
 .bg-blue {
   background-color: #1919e6;
 }
 
 .text-blue-light-1 {
+  color: rgb(18.8235294118%, 18.8235294118%, 91.1764705882%);
+}
+
+.text-hover-blue-light-1:hover {
   color: rgb(18.8235294118%, 18.8235294118%, 91.1764705882%);
 }
 
@@ -659,11 +971,19 @@ img {
   color: #4747eb;
 }
 
+.text-hover-blue-light-2:hover {
+  color: #4747eb;
+}
+
 .bg-blue-light-2 {
   background-color: #4747eb;
 }
 
 .text-blue-light-3 {
+  color: rgb(36.862745098%, 36.862745098%, 93.137254902%);
+}
+
+.text-hover-blue-light-3:hover {
   color: rgb(36.862745098%, 36.862745098%, 93.137254902%);
 }
 
@@ -675,11 +995,19 @@ img {
   color: #7575f0;
 }
 
+.text-hover-blue-light-4:hover {
+  color: #7575f0;
+}
+
 .bg-blue-light-4 {
   background-color: #7575f0;
 }
 
 .text-blue-light-5 {
+  color: rgb(54.9019607843%, 54.9019607843%, 95.0980392157%);
+}
+
+.text-hover-blue-light-5:hover {
   color: rgb(54.9019607843%, 54.9019607843%, 95.0980392157%);
 }
 
@@ -691,11 +1019,19 @@ img {
   color: #a3a3f5;
 }
 
+.text-hover-blue-light-6:hover {
+  color: #a3a3f5;
+}
+
 .bg-blue-light-6 {
   background-color: #a3a3f5;
 }
 
 .text-blue-light-7 {
+  color: rgb(72.9411764706%, 72.9411764706%, 97.0588235294%);
+}
+
+.text-hover-blue-light-7:hover {
   color: rgb(72.9411764706%, 72.9411764706%, 97.0588235294%);
 }
 
@@ -707,11 +1043,19 @@ img {
   color: #d1d1fa;
 }
 
+.text-hover-blue-light-8:hover {
+  color: #d1d1fa;
+}
+
 .bg-blue-light-8 {
   background-color: #d1d1fa;
 }
 
 .text-blue-light-9 {
+  color: rgb(90.9803921569%, 90.9803921569%, 99.0196078431%);
+}
+
+.text-hover-blue-light-9:hover {
   color: rgb(90.9803921569%, 90.9803921569%, 99.0196078431%);
 }
 
@@ -723,11 +1067,19 @@ img {
   color: rgb(8.8235294118%, 8.8235294118%, 81.1764705882%);
 }
 
+.text-hover-blue-dark-1:hover {
+  color: rgb(8.8235294118%, 8.8235294118%, 81.1764705882%);
+}
+
 .bg-blue-dark-1 {
   background-color: rgb(8.8235294118%, 8.8235294118%, 81.1764705882%);
 }
 
 .text-blue-dark-2 {
+  color: #1414b8;
+}
+
+.text-hover-blue-dark-2:hover {
   color: #1414b8;
 }
 
@@ -739,11 +1091,19 @@ img {
   color: rgb(6.862745098%, 6.862745098%, 63.137254902%);
 }
 
+.text-hover-blue-dark-3:hover {
+  color: rgb(6.862745098%, 6.862745098%, 63.137254902%);
+}
+
 .bg-blue-dark-3 {
   background-color: rgb(6.862745098%, 6.862745098%, 63.137254902%);
 }
 
 .text-blue-dark-4 {
+  color: #0f0f8a;
+}
+
+.text-hover-blue-dark-4:hover {
   color: #0f0f8a;
 }
 
@@ -755,11 +1115,19 @@ img {
   color: rgb(4.9019607843%, 4.9019607843%, 45.0980392157%);
 }
 
+.text-hover-blue-dark-5:hover {
+  color: rgb(4.9019607843%, 4.9019607843%, 45.0980392157%);
+}
+
 .bg-blue-dark-5 {
   background-color: rgb(4.9019607843%, 4.9019607843%, 45.0980392157%);
 }
 
 .text-blue-dark-6 {
+  color: #0a0a5c;
+}
+
+.text-hover-blue-dark-6:hover {
   color: #0a0a5c;
 }
 
@@ -771,11 +1139,19 @@ img {
   color: rgb(2.9411764706%, 2.9411764706%, 27.0588235294%);
 }
 
+.text-hover-blue-dark-7:hover {
+  color: rgb(2.9411764706%, 2.9411764706%, 27.0588235294%);
+}
+
 .bg-blue-dark-7 {
   background-color: rgb(2.9411764706%, 2.9411764706%, 27.0588235294%);
 }
 
 .text-blue-dark-8 {
+  color: #05052e;
+}
+
+.text-hover-blue-dark-8:hover {
   color: #05052e;
 }
 
@@ -787,11 +1163,19 @@ img {
   color: rgb(0.9803921569%, 0.9803921569%, 9.0196078431%);
 }
 
+.text-hover-blue-dark-9:hover {
+  color: rgb(0.9803921569%, 0.9803921569%, 9.0196078431%);
+}
+
 .bg-blue-dark-9 {
   background-color: rgb(0.9803921569%, 0.9803921569%, 9.0196078431%);
 }
 
 .text-red {
+  color: #e61919;
+}
+
+.text-hover-red:hover {
   color: #e61919;
 }
 
@@ -803,11 +1187,19 @@ img {
   color: rgb(91.1764705882%, 18.8235294118%, 18.8235294118%);
 }
 
+.text-hover-red-light-1:hover {
+  color: rgb(91.1764705882%, 18.8235294118%, 18.8235294118%);
+}
+
 .bg-red-light-1 {
   background-color: rgb(91.1764705882%, 18.8235294118%, 18.8235294118%);
 }
 
 .text-red-light-2 {
+  color: #eb4747;
+}
+
+.text-hover-red-light-2:hover {
   color: #eb4747;
 }
 
@@ -819,11 +1211,19 @@ img {
   color: rgb(93.137254902%, 36.862745098%, 36.862745098%);
 }
 
+.text-hover-red-light-3:hover {
+  color: rgb(93.137254902%, 36.862745098%, 36.862745098%);
+}
+
 .bg-red-light-3 {
   background-color: rgb(93.137254902%, 36.862745098%, 36.862745098%);
 }
 
 .text-red-light-4 {
+  color: #f07575;
+}
+
+.text-hover-red-light-4:hover {
   color: #f07575;
 }
 
@@ -835,11 +1235,19 @@ img {
   color: rgb(95.0980392157%, 54.9019607843%, 54.9019607843%);
 }
 
+.text-hover-red-light-5:hover {
+  color: rgb(95.0980392157%, 54.9019607843%, 54.9019607843%);
+}
+
 .bg-red-light-5 {
   background-color: rgb(95.0980392157%, 54.9019607843%, 54.9019607843%);
 }
 
 .text-red-light-6 {
+  color: #f5a3a3;
+}
+
+.text-hover-red-light-6:hover {
   color: #f5a3a3;
 }
 
@@ -851,11 +1259,19 @@ img {
   color: rgb(97.0588235294%, 72.9411764706%, 72.9411764706%);
 }
 
+.text-hover-red-light-7:hover {
+  color: rgb(97.0588235294%, 72.9411764706%, 72.9411764706%);
+}
+
 .bg-red-light-7 {
   background-color: rgb(97.0588235294%, 72.9411764706%, 72.9411764706%);
 }
 
 .text-red-light-8 {
+  color: #fad1d1;
+}
+
+.text-hover-red-light-8:hover {
   color: #fad1d1;
 }
 
@@ -867,11 +1283,19 @@ img {
   color: rgb(99.0196078431%, 90.9803921569%, 90.9803921569%);
 }
 
+.text-hover-red-light-9:hover {
+  color: rgb(99.0196078431%, 90.9803921569%, 90.9803921569%);
+}
+
 .bg-red-light-9 {
   background-color: rgb(99.0196078431%, 90.9803921569%, 90.9803921569%);
 }
 
 .text-red-dark-1 {
+  color: rgb(81.1764705882%, 8.8235294118%, 8.8235294118%);
+}
+
+.text-hover-red-dark-1:hover {
   color: rgb(81.1764705882%, 8.8235294118%, 8.8235294118%);
 }
 
@@ -883,11 +1307,19 @@ img {
   color: #b81414;
 }
 
+.text-hover-red-dark-2:hover {
+  color: #b81414;
+}
+
 .bg-red-dark-2 {
   background-color: #b81414;
 }
 
 .text-red-dark-3 {
+  color: rgb(63.137254902%, 6.862745098%, 6.862745098%);
+}
+
+.text-hover-red-dark-3:hover {
   color: rgb(63.137254902%, 6.862745098%, 6.862745098%);
 }
 
@@ -899,11 +1331,19 @@ img {
   color: #8a0f0f;
 }
 
+.text-hover-red-dark-4:hover {
+  color: #8a0f0f;
+}
+
 .bg-red-dark-4 {
   background-color: #8a0f0f;
 }
 
 .text-red-dark-5 {
+  color: rgb(45.0980392157%, 4.9019607843%, 4.9019607843%);
+}
+
+.text-hover-red-dark-5:hover {
   color: rgb(45.0980392157%, 4.9019607843%, 4.9019607843%);
 }
 
@@ -915,11 +1355,19 @@ img {
   color: #5c0a0a;
 }
 
+.text-hover-red-dark-6:hover {
+  color: #5c0a0a;
+}
+
 .bg-red-dark-6 {
   background-color: #5c0a0a;
 }
 
 .text-red-dark-7 {
+  color: rgb(27.0588235294%, 2.9411764706%, 2.9411764706%);
+}
+
+.text-hover-red-dark-7:hover {
   color: rgb(27.0588235294%, 2.9411764706%, 2.9411764706%);
 }
 
@@ -931,11 +1379,19 @@ img {
   color: #2e0505;
 }
 
+.text-hover-red-dark-8:hover {
+  color: #2e0505;
+}
+
 .bg-red-dark-8 {
   background-color: #2e0505;
 }
 
 .text-red-dark-9 {
+  color: rgb(9.0196078431%, 0.9803921569%, 0.9803921569%);
+}
+
+.text-hover-red-dark-9:hover {
   color: rgb(9.0196078431%, 0.9803921569%, 0.9803921569%);
 }
 
@@ -947,11 +1403,19 @@ img {
   color: #e6e619;
 }
 
+.text-hover-yellow:hover {
+  color: #e6e619;
+}
+
 .bg-yellow {
   background-color: #e6e619;
 }
 
 .text-yellow-light-1 {
+  color: rgb(91.1764705882%, 91.1764705882%, 18.8235294118%);
+}
+
+.text-hover-yellow-light-1:hover {
   color: rgb(91.1764705882%, 91.1764705882%, 18.8235294118%);
 }
 
@@ -963,11 +1427,19 @@ img {
   color: #ebeb47;
 }
 
+.text-hover-yellow-light-2:hover {
+  color: #ebeb47;
+}
+
 .bg-yellow-light-2 {
   background-color: #ebeb47;
 }
 
 .text-yellow-light-3 {
+  color: rgb(93.137254902%, 93.137254902%, 36.862745098%);
+}
+
+.text-hover-yellow-light-3:hover {
   color: rgb(93.137254902%, 93.137254902%, 36.862745098%);
 }
 
@@ -979,11 +1451,19 @@ img {
   color: #f0f075;
 }
 
+.text-hover-yellow-light-4:hover {
+  color: #f0f075;
+}
+
 .bg-yellow-light-4 {
   background-color: #f0f075;
 }
 
 .text-yellow-light-5 {
+  color: rgb(95.0980392157%, 95.0980392157%, 54.9019607843%);
+}
+
+.text-hover-yellow-light-5:hover {
   color: rgb(95.0980392157%, 95.0980392157%, 54.9019607843%);
 }
 
@@ -995,11 +1475,19 @@ img {
   color: #f5f5a3;
 }
 
+.text-hover-yellow-light-6:hover {
+  color: #f5f5a3;
+}
+
 .bg-yellow-light-6 {
   background-color: #f5f5a3;
 }
 
 .text-yellow-light-7 {
+  color: rgb(97.0588235294%, 97.0588235294%, 72.9411764706%);
+}
+
+.text-hover-yellow-light-7:hover {
   color: rgb(97.0588235294%, 97.0588235294%, 72.9411764706%);
 }
 
@@ -1011,11 +1499,19 @@ img {
   color: #fafad1;
 }
 
+.text-hover-yellow-light-8:hover {
+  color: #fafad1;
+}
+
 .bg-yellow-light-8 {
   background-color: #fafad1;
 }
 
 .text-yellow-light-9 {
+  color: rgb(99.0196078431%, 99.0196078431%, 90.9803921569%);
+}
+
+.text-hover-yellow-light-9:hover {
   color: rgb(99.0196078431%, 99.0196078431%, 90.9803921569%);
 }
 
@@ -1027,11 +1523,19 @@ img {
   color: rgb(81.1764705882%, 81.1764705882%, 8.8235294118%);
 }
 
+.text-hover-yellow-dark-1:hover {
+  color: rgb(81.1764705882%, 81.1764705882%, 8.8235294118%);
+}
+
 .bg-yellow-dark-1 {
   background-color: rgb(81.1764705882%, 81.1764705882%, 8.8235294118%);
 }
 
 .text-yellow-dark-2 {
+  color: #b8b814;
+}
+
+.text-hover-yellow-dark-2:hover {
   color: #b8b814;
 }
 
@@ -1043,11 +1547,19 @@ img {
   color: rgb(63.137254902%, 63.137254902%, 6.862745098%);
 }
 
+.text-hover-yellow-dark-3:hover {
+  color: rgb(63.137254902%, 63.137254902%, 6.862745098%);
+}
+
 .bg-yellow-dark-3 {
   background-color: rgb(63.137254902%, 63.137254902%, 6.862745098%);
 }
 
 .text-yellow-dark-4 {
+  color: #8a8a0f;
+}
+
+.text-hover-yellow-dark-4:hover {
   color: #8a8a0f;
 }
 
@@ -1059,11 +1571,19 @@ img {
   color: rgb(45.0980392157%, 45.0980392157%, 4.9019607843%);
 }
 
+.text-hover-yellow-dark-5:hover {
+  color: rgb(45.0980392157%, 45.0980392157%, 4.9019607843%);
+}
+
 .bg-yellow-dark-5 {
   background-color: rgb(45.0980392157%, 45.0980392157%, 4.9019607843%);
 }
 
 .text-yellow-dark-6 {
+  color: #5c5c0a;
+}
+
+.text-hover-yellow-dark-6:hover {
   color: #5c5c0a;
 }
 
@@ -1075,11 +1595,19 @@ img {
   color: rgb(27.0588235294%, 27.0588235294%, 2.9411764706%);
 }
 
+.text-hover-yellow-dark-7:hover {
+  color: rgb(27.0588235294%, 27.0588235294%, 2.9411764706%);
+}
+
 .bg-yellow-dark-7 {
   background-color: rgb(27.0588235294%, 27.0588235294%, 2.9411764706%);
 }
 
 .text-yellow-dark-8 {
+  color: #2e2e05;
+}
+
+.text-hover-yellow-dark-8:hover {
   color: #2e2e05;
 }
 
@@ -1091,11 +1619,19 @@ img {
   color: rgb(9.0196078431%, 9.0196078431%, 0.9803921569%);
 }
 
+.text-hover-yellow-dark-9:hover {
+  color: rgb(9.0196078431%, 9.0196078431%, 0.9803921569%);
+}
+
 .bg-yellow-dark-9 {
   background-color: rgb(9.0196078431%, 9.0196078431%, 0.9803921569%);
 }
 
 .text-green {
+  color: #19e635;
+}
+
+.text-hover-green:hover {
   color: #19e635;
 }
 
@@ -1107,11 +1643,19 @@ img {
   color: rgb(18.8235294118%, 91.1764705882%, 28.7058823529%);
 }
 
+.text-hover-green-light-1:hover {
+  color: rgb(18.8235294118%, 91.1764705882%, 28.7058823529%);
+}
+
 .bg-green-light-1 {
   background-color: rgb(18.8235294118%, 91.1764705882%, 28.7058823529%);
 }
 
 .text-green-light-2 {
+  color: rgb(27.8431372549%, 92.1568627451%, 36.6274509804%);
+}
+
+.text-hover-green-light-2:hover {
   color: rgb(27.8431372549%, 92.1568627451%, 36.6274509804%);
 }
 
@@ -1123,11 +1667,19 @@ img {
   color: rgb(36.862745098%, 93.137254902%, 44.5490196078%);
 }
 
+.text-hover-green-light-3:hover {
+  color: rgb(36.862745098%, 93.137254902%, 44.5490196078%);
+}
+
 .bg-green-light-3 {
   background-color: rgb(36.862745098%, 93.137254902%, 44.5490196078%);
 }
 
 .text-green-light-4 {
+  color: rgb(45.8823529412%, 94.1176470588%, 52.4705882353%);
+}
+
+.text-hover-green-light-4:hover {
   color: rgb(45.8823529412%, 94.1176470588%, 52.4705882353%);
 }
 
@@ -1139,11 +1691,19 @@ img {
   color: rgb(54.9019607843%, 95.0980392157%, 60.3921568627%);
 }
 
+.text-hover-green-light-5:hover {
+  color: rgb(54.9019607843%, 95.0980392157%, 60.3921568627%);
+}
+
 .bg-green-light-5 {
   background-color: rgb(54.9019607843%, 95.0980392157%, 60.3921568627%);
 }
 
 .text-green-light-6 {
+  color: rgb(63.9215686275%, 96.0784313725%, 68.3137254902%);
+}
+
+.text-hover-green-light-6:hover {
   color: rgb(63.9215686275%, 96.0784313725%, 68.3137254902%);
 }
 
@@ -1155,11 +1715,19 @@ img {
   color: rgb(72.9411764706%, 97.0588235294%, 76.2352941176%);
 }
 
+.text-hover-green-light-7:hover {
+  color: rgb(72.9411764706%, 97.0588235294%, 76.2352941176%);
+}
+
 .bg-green-light-7 {
   background-color: rgb(72.9411764706%, 97.0588235294%, 76.2352941176%);
 }
 
 .text-green-light-8 {
+  color: rgb(81.9607843137%, 98.0392156863%, 84.1568627451%);
+}
+
+.text-hover-green-light-8:hover {
   color: rgb(81.9607843137%, 98.0392156863%, 84.1568627451%);
 }
 
@@ -1171,11 +1739,19 @@ img {
   color: rgb(90.9803921569%, 99.0196078431%, 92.0784313725%);
 }
 
+.text-hover-green-light-9:hover {
+  color: rgb(90.9803921569%, 99.0196078431%, 92.0784313725%);
+}
+
 .bg-green-light-9 {
   background-color: rgb(90.9803921569%, 99.0196078431%, 92.0784313725%);
 }
 
 .text-green-dark-1 {
+  color: rgb(8.8235294118%, 81.1764705882%, 18.7058823529%);
+}
+
+.text-hover-green-dark-1:hover {
   color: rgb(8.8235294118%, 81.1764705882%, 18.7058823529%);
 }
 
@@ -1187,11 +1763,19 @@ img {
   color: rgb(7.8431372549%, 72.1568627451%, 16.6274509804%);
 }
 
+.text-hover-green-dark-2:hover {
+  color: rgb(7.8431372549%, 72.1568627451%, 16.6274509804%);
+}
+
 .bg-green-dark-2 {
   background-color: rgb(7.8431372549%, 72.1568627451%, 16.6274509804%);
 }
 
 .text-green-dark-3 {
+  color: rgb(6.862745098%, 63.137254902%, 14.5490196078%);
+}
+
+.text-hover-green-dark-3:hover {
   color: rgb(6.862745098%, 63.137254902%, 14.5490196078%);
 }
 
@@ -1203,11 +1787,19 @@ img {
   color: rgb(5.8823529412%, 54.1176470588%, 12.4705882353%);
 }
 
+.text-hover-green-dark-4:hover {
+  color: rgb(5.8823529412%, 54.1176470588%, 12.4705882353%);
+}
+
 .bg-green-dark-4 {
   background-color: rgb(5.8823529412%, 54.1176470588%, 12.4705882353%);
 }
 
 .text-green-dark-5 {
+  color: rgb(4.9019607843%, 45.0980392157%, 10.3921568627%);
+}
+
+.text-hover-green-dark-5:hover {
   color: rgb(4.9019607843%, 45.0980392157%, 10.3921568627%);
 }
 
@@ -1219,11 +1811,19 @@ img {
   color: rgb(3.9215686275%, 36.0784313725%, 8.3137254902%);
 }
 
+.text-hover-green-dark-6:hover {
+  color: rgb(3.9215686275%, 36.0784313725%, 8.3137254902%);
+}
+
 .bg-green-dark-6 {
   background-color: rgb(3.9215686275%, 36.0784313725%, 8.3137254902%);
 }
 
 .text-green-dark-7 {
+  color: rgb(2.9411764706%, 27.0588235294%, 6.2352941176%);
+}
+
+.text-hover-green-dark-7:hover {
   color: rgb(2.9411764706%, 27.0588235294%, 6.2352941176%);
 }
 
@@ -1235,11 +1835,19 @@ img {
   color: rgb(1.9607843137%, 18.0392156863%, 4.1568627451%);
 }
 
+.text-hover-green-dark-8:hover {
+  color: rgb(1.9607843137%, 18.0392156863%, 4.1568627451%);
+}
+
 .bg-green-dark-8 {
   background-color: rgb(1.9607843137%, 18.0392156863%, 4.1568627451%);
 }
 
 .text-green-dark-9 {
+  color: rgb(0.9803921569%, 9.0196078431%, 2.0784313725%);
+}
+
+.text-hover-green-dark-9:hover {
   color: rgb(0.9803921569%, 9.0196078431%, 2.0784313725%);
 }
 
@@ -1251,11 +1859,19 @@ img {
   color: #ffa600;
 }
 
+.text-hover-orange:hover {
+  color: #ffa600;
+}
+
 .bg-orange {
   background-color: #ffa600;
 }
 
 .text-orange-light-1 {
+  color: rgb(100%, 68.5882352941%, 10%);
+}
+
+.text-hover-orange-light-1:hover {
   color: rgb(100%, 68.5882352941%, 10%);
 }
 
@@ -1267,11 +1883,19 @@ img {
   color: rgb(100%, 72.0784313725%, 20%);
 }
 
+.text-hover-orange-light-2:hover {
+  color: rgb(100%, 72.0784313725%, 20%);
+}
+
 .bg-orange-light-2 {
   background-color: rgb(100%, 72.0784313725%, 20%);
 }
 
 .text-orange-light-3 {
+  color: rgb(100%, 75.568627451%, 30%);
+}
+
+.text-hover-orange-light-3:hover {
   color: rgb(100%, 75.568627451%, 30%);
 }
 
@@ -1283,11 +1907,19 @@ img {
   color: rgb(100%, 79.0588235294%, 40%);
 }
 
+.text-hover-orange-light-4:hover {
+  color: rgb(100%, 79.0588235294%, 40%);
+}
+
 .bg-orange-light-4 {
   background-color: rgb(100%, 79.0588235294%, 40%);
 }
 
 .text-orange-light-5 {
+  color: rgb(100%, 82.5490196078%, 50%);
+}
+
+.text-hover-orange-light-5:hover {
   color: rgb(100%, 82.5490196078%, 50%);
 }
 
@@ -1299,11 +1931,19 @@ img {
   color: rgb(100%, 86.0392156863%, 60%);
 }
 
+.text-hover-orange-light-6:hover {
+  color: rgb(100%, 86.0392156863%, 60%);
+}
+
 .bg-orange-light-6 {
   background-color: rgb(100%, 86.0392156863%, 60%);
 }
 
 .text-orange-light-7 {
+  color: rgb(100%, 89.5294117647%, 70%);
+}
+
+.text-hover-orange-light-7:hover {
   color: rgb(100%, 89.5294117647%, 70%);
 }
 
@@ -1315,11 +1955,19 @@ img {
   color: rgb(100%, 93.0196078431%, 80%);
 }
 
+.text-hover-orange-light-8:hover {
+  color: rgb(100%, 93.0196078431%, 80%);
+}
+
 .bg-orange-light-8 {
   background-color: rgb(100%, 93.0196078431%, 80%);
 }
 
 .text-orange-light-9 {
+  color: rgb(100%, 96.5098039216%, 90%);
+}
+
+.text-hover-orange-light-9:hover {
   color: rgb(100%, 96.5098039216%, 90%);
 }
 
@@ -1331,11 +1979,19 @@ img {
   color: rgb(90%, 58.5882352941%, 0%);
 }
 
+.text-hover-orange-dark-1:hover {
+  color: rgb(90%, 58.5882352941%, 0%);
+}
+
 .bg-orange-dark-1 {
   background-color: rgb(90%, 58.5882352941%, 0%);
 }
 
 .text-orange-dark-2 {
+  color: rgb(80%, 52.0784313725%, 0%);
+}
+
+.text-hover-orange-dark-2:hover {
   color: rgb(80%, 52.0784313725%, 0%);
 }
 
@@ -1347,11 +2003,19 @@ img {
   color: rgb(70%, 45.568627451%, 0%);
 }
 
+.text-hover-orange-dark-3:hover {
+  color: rgb(70%, 45.568627451%, 0%);
+}
+
 .bg-orange-dark-3 {
   background-color: rgb(70%, 45.568627451%, 0%);
 }
 
 .text-orange-dark-4 {
+  color: rgb(60%, 39.0588235294%, 0%);
+}
+
+.text-hover-orange-dark-4:hover {
   color: rgb(60%, 39.0588235294%, 0%);
 }
 
@@ -1363,11 +2027,19 @@ img {
   color: rgb(50%, 32.5490196078%, 0%);
 }
 
+.text-hover-orange-dark-5:hover {
+  color: rgb(50%, 32.5490196078%, 0%);
+}
+
 .bg-orange-dark-5 {
   background-color: rgb(50%, 32.5490196078%, 0%);
 }
 
 .text-orange-dark-6 {
+  color: rgb(40%, 26.0392156863%, 0%);
+}
+
+.text-hover-orange-dark-6:hover {
   color: rgb(40%, 26.0392156863%, 0%);
 }
 
@@ -1379,11 +2051,19 @@ img {
   color: rgb(30%, 19.5294117647%, 0%);
 }
 
+.text-hover-orange-dark-7:hover {
+  color: rgb(30%, 19.5294117647%, 0%);
+}
+
 .bg-orange-dark-7 {
   background-color: rgb(30%, 19.5294117647%, 0%);
 }
 
 .text-orange-dark-8 {
+  color: rgb(20%, 13.0196078431%, 0%);
+}
+
+.text-hover-orange-dark-8:hover {
   color: rgb(20%, 13.0196078431%, 0%);
 }
 
@@ -1395,11 +2075,19 @@ img {
   color: rgb(10%, 6.5098039216%, 0%);
 }
 
+.text-hover-orange-dark-9:hover {
+  color: rgb(10%, 6.5098039216%, 0%);
+}
+
 .bg-orange-dark-9 {
   background-color: rgb(10%, 6.5098039216%, 0%);
 }
 
 .text-purple {
+  color: #9900ff;
+}
+
+.text-hover-purple:hover {
   color: #9900ff;
 }
 
@@ -1411,11 +2099,19 @@ img {
   color: rgb(64%, 10%, 100%);
 }
 
+.text-hover-purple-light-1:hover {
+  color: rgb(64%, 10%, 100%);
+}
+
 .bg-purple-light-1 {
   background-color: rgb(64%, 10%, 100%);
 }
 
 .text-purple-light-2 {
+  color: rgb(68%, 20%, 100%);
+}
+
+.text-hover-purple-light-2:hover {
   color: rgb(68%, 20%, 100%);
 }
 
@@ -1427,11 +2123,19 @@ img {
   color: rgb(72%, 30%, 100%);
 }
 
+.text-hover-purple-light-3:hover {
+  color: rgb(72%, 30%, 100%);
+}
+
 .bg-purple-light-3 {
   background-color: rgb(72%, 30%, 100%);
 }
 
 .text-purple-light-4 {
+  color: rgb(76%, 40%, 100%);
+}
+
+.text-hover-purple-light-4:hover {
   color: rgb(76%, 40%, 100%);
 }
 
@@ -1443,11 +2147,19 @@ img {
   color: rgb(80%, 50%, 100%);
 }
 
+.text-hover-purple-light-5:hover {
+  color: rgb(80%, 50%, 100%);
+}
+
 .bg-purple-light-5 {
   background-color: rgb(80%, 50%, 100%);
 }
 
 .text-purple-light-6 {
+  color: rgb(84%, 60%, 100%);
+}
+
+.text-hover-purple-light-6:hover {
   color: rgb(84%, 60%, 100%);
 }
 
@@ -1459,11 +2171,19 @@ img {
   color: rgb(88%, 70%, 100%);
 }
 
+.text-hover-purple-light-7:hover {
+  color: rgb(88%, 70%, 100%);
+}
+
 .bg-purple-light-7 {
   background-color: rgb(88%, 70%, 100%);
 }
 
 .text-purple-light-8 {
+  color: rgb(92%, 80%, 100%);
+}
+
+.text-hover-purple-light-8:hover {
   color: rgb(92%, 80%, 100%);
 }
 
@@ -1475,11 +2195,19 @@ img {
   color: rgb(96%, 90%, 100%);
 }
 
+.text-hover-purple-light-9:hover {
+  color: rgb(96%, 90%, 100%);
+}
+
 .bg-purple-light-9 {
   background-color: rgb(96%, 90%, 100%);
 }
 
 .text-purple-dark-1 {
+  color: rgb(54%, 0%, 90%);
+}
+
+.text-hover-purple-dark-1:hover {
   color: rgb(54%, 0%, 90%);
 }
 
@@ -1491,11 +2219,19 @@ img {
   color: rgb(48%, 0%, 80%);
 }
 
+.text-hover-purple-dark-2:hover {
+  color: rgb(48%, 0%, 80%);
+}
+
 .bg-purple-dark-2 {
   background-color: rgb(48%, 0%, 80%);
 }
 
 .text-purple-dark-3 {
+  color: rgb(42%, 0%, 70%);
+}
+
+.text-hover-purple-dark-3:hover {
   color: rgb(42%, 0%, 70%);
 }
 
@@ -1507,11 +2243,19 @@ img {
   color: rgb(36%, 0%, 60%);
 }
 
+.text-hover-purple-dark-4:hover {
+  color: rgb(36%, 0%, 60%);
+}
+
 .bg-purple-dark-4 {
   background-color: rgb(36%, 0%, 60%);
 }
 
 .text-purple-dark-5 {
+  color: rgb(30%, 0%, 50%);
+}
+
+.text-hover-purple-dark-5:hover {
   color: rgb(30%, 0%, 50%);
 }
 
@@ -1523,11 +2267,19 @@ img {
   color: rgb(24%, 0%, 40%);
 }
 
+.text-hover-purple-dark-6:hover {
+  color: rgb(24%, 0%, 40%);
+}
+
 .bg-purple-dark-6 {
   background-color: rgb(24%, 0%, 40%);
 }
 
 .text-purple-dark-7 {
+  color: rgb(18%, 0%, 30%);
+}
+
+.text-hover-purple-dark-7:hover {
   color: rgb(18%, 0%, 30%);
 }
 
@@ -1539,11 +2291,19 @@ img {
   color: rgb(12%, 0%, 20%);
 }
 
+.text-hover-purple-dark-8:hover {
+  color: rgb(12%, 0%, 20%);
+}
+
 .bg-purple-dark-8 {
   background-color: rgb(12%, 0%, 20%);
 }
 
 .text-purple-dark-9 {
+  color: rgb(6%, 0%, 10%);
+}
+
+.text-hover-purple-dark-9:hover {
   color: rgb(6%, 0%, 10%);
 }
 
@@ -1555,11 +2315,19 @@ img {
   color: #808080;
 }
 
+.text-hover-gray:hover {
+  color: #808080;
+}
+
 .bg-gray {
   background-color: #808080;
 }
 
 .text-gray-light-1 {
+  color: rgb(55.1764705882%, 55.1764705882%, 55.1764705882%);
+}
+
+.text-hover-gray-light-1:hover {
   color: rgb(55.1764705882%, 55.1764705882%, 55.1764705882%);
 }
 
@@ -1571,11 +2339,19 @@ img {
   color: rgb(60.1568627451%, 60.1568627451%, 60.1568627451%);
 }
 
+.text-hover-gray-light-2:hover {
+  color: rgb(60.1568627451%, 60.1568627451%, 60.1568627451%);
+}
+
 .bg-gray-light-2 {
   background-color: rgb(60.1568627451%, 60.1568627451%, 60.1568627451%);
 }
 
 .text-gray-light-3 {
+  color: rgb(65.137254902%, 65.137254902%, 65.137254902%);
+}
+
+.text-hover-gray-light-3:hover {
   color: rgb(65.137254902%, 65.137254902%, 65.137254902%);
 }
 
@@ -1587,11 +2363,19 @@ img {
   color: rgb(70.1176470588%, 70.1176470588%, 70.1176470588%);
 }
 
+.text-hover-gray-light-4:hover {
+  color: rgb(70.1176470588%, 70.1176470588%, 70.1176470588%);
+}
+
 .bg-gray-light-4 {
   background-color: rgb(70.1176470588%, 70.1176470588%, 70.1176470588%);
 }
 
 .text-gray-light-5 {
+  color: rgb(75.0980392157%, 75.0980392157%, 75.0980392157%);
+}
+
+.text-hover-gray-light-5:hover {
   color: rgb(75.0980392157%, 75.0980392157%, 75.0980392157%);
 }
 
@@ -1603,11 +2387,19 @@ img {
   color: rgb(80.0784313725%, 80.0784313725%, 80.0784313725%);
 }
 
+.text-hover-gray-light-6:hover {
+  color: rgb(80.0784313725%, 80.0784313725%, 80.0784313725%);
+}
+
 .bg-gray-light-6 {
   background-color: rgb(80.0784313725%, 80.0784313725%, 80.0784313725%);
 }
 
 .text-gray-light-7 {
+  color: rgb(85.0588235294%, 85.0588235294%, 85.0588235294%);
+}
+
+.text-hover-gray-light-7:hover {
   color: rgb(85.0588235294%, 85.0588235294%, 85.0588235294%);
 }
 
@@ -1619,11 +2411,19 @@ img {
   color: rgb(90.0392156863%, 90.0392156863%, 90.0392156863%);
 }
 
+.text-hover-gray-light-8:hover {
+  color: rgb(90.0392156863%, 90.0392156863%, 90.0392156863%);
+}
+
 .bg-gray-light-8 {
   background-color: rgb(90.0392156863%, 90.0392156863%, 90.0392156863%);
 }
 
 .text-gray-light-9 {
+  color: rgb(95.0196078431%, 95.0196078431%, 95.0196078431%);
+}
+
+.text-hover-gray-light-9:hover {
   color: rgb(95.0196078431%, 95.0196078431%, 95.0196078431%);
 }
 
@@ -1635,11 +2435,19 @@ img {
   color: rgb(45.1764705882%, 45.1764705882%, 45.1764705882%);
 }
 
+.text-hover-gray-dark-1:hover {
+  color: rgb(45.1764705882%, 45.1764705882%, 45.1764705882%);
+}
+
 .bg-gray-dark-1 {
   background-color: rgb(45.1764705882%, 45.1764705882%, 45.1764705882%);
 }
 
 .text-gray-dark-2 {
+  color: rgb(40.1568627451%, 40.1568627451%, 40.1568627451%);
+}
+
+.text-hover-gray-dark-2:hover {
   color: rgb(40.1568627451%, 40.1568627451%, 40.1568627451%);
 }
 
@@ -1651,11 +2459,19 @@ img {
   color: rgb(35.137254902%, 35.137254902%, 35.137254902%);
 }
 
+.text-hover-gray-dark-3:hover {
+  color: rgb(35.137254902%, 35.137254902%, 35.137254902%);
+}
+
 .bg-gray-dark-3 {
   background-color: rgb(35.137254902%, 35.137254902%, 35.137254902%);
 }
 
 .text-gray-dark-4 {
+  color: rgb(30.1176470588%, 30.1176470588%, 30.1176470588%);
+}
+
+.text-hover-gray-dark-4:hover {
   color: rgb(30.1176470588%, 30.1176470588%, 30.1176470588%);
 }
 
@@ -1667,11 +2483,19 @@ img {
   color: #404040;
 }
 
+.text-hover-gray-dark-5:hover {
+  color: #404040;
+}
+
 .bg-gray-dark-5 {
   background-color: #404040;
 }
 
 .text-gray-dark-6 {
+  color: rgb(20.0784313725%, 20.0784313725%, 20.0784313725%);
+}
+
+.text-hover-gray-dark-6:hover {
   color: rgb(20.0784313725%, 20.0784313725%, 20.0784313725%);
 }
 
@@ -1683,11 +2507,19 @@ img {
   color: rgb(15.0588235294%, 15.0588235294%, 15.0588235294%);
 }
 
+.text-hover-gray-dark-7:hover {
+  color: rgb(15.0588235294%, 15.0588235294%, 15.0588235294%);
+}
+
 .bg-gray-dark-7 {
   background-color: rgb(15.0588235294%, 15.0588235294%, 15.0588235294%);
 }
 
 .text-gray-dark-8 {
+  color: rgb(10.0392156863%, 10.0392156863%, 10.0392156863%);
+}
+
+.text-hover-gray-dark-8:hover {
   color: rgb(10.0392156863%, 10.0392156863%, 10.0392156863%);
 }
 
@@ -1699,6 +2531,10 @@ img {
   color: rgb(5.0196078431%, 5.0196078431%, 5.0196078431%);
 }
 
+.text-hover-gray-dark-9:hover {
+  color: rgb(5.0196078431%, 5.0196078431%, 5.0196078431%);
+}
+
 .bg-gray-dark-9 {
   background-color: rgb(5.0196078431%, 5.0196078431%, 5.0196078431%);
 }
@@ -1707,11 +2543,19 @@ img {
   color: black;
 }
 
+.text-hover-black:hover {
+  color: black;
+}
+
 .bg-black {
   background-color: black;
 }
 
 .text-white {
+  color: white;
+}
+
+.text-hover-white:hover {
   color: white;
 }
 
