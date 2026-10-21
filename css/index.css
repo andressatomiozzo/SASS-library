@@ -146,8 +146,16 @@ img {
   background-color: #1ac886;
 }
 
+.bg-secondary-light-5 {
+  background-color: rgb(55.0980392157%, 89.2156862745%, 76.2745098039%);
+}
+
 .bg-secondary-light-9 {
   background-color: rgb(91.0196078431%, 97.8431372549%, 95.2549019608%);
+}
+
+.text-secondary-dark-2 {
+  color: rgb(8.1568627451%, 62.7450980392%, 42.0392156863%);
 }
 
 .text-error {
@@ -208,6 +216,14 @@ img {
 
 .text-hover-orange-light-1:hover {
   color: rgb(100%, 68.5882352941%, 10%);
+}
+
+.bg-orange-light-5 {
+  background-color: rgb(100%, 82.5490196078%, 50%);
+}
+
+.text-orange-dark-2 {
+  color: rgb(80%, 52.0784313725%, 0%);
 }
 
 .text-purple {
@@ -422,6 +438,10 @@ img {
   padding: 0;
 }
 
+.p-2 {
+  padding: 2rem;
+}
+
 .pt-3 {
   padding-top: 4rem;
 }
@@ -446,12 +466,20 @@ img {
   margin-left: 0.75rem;
 }
 
+.mr-3 {
+  margin-right: 3rem;
+}
+
 .mt-1 {
   margin-top: 0.75rem;
 }
 
 .mt-2 {
   margin-top: 1.5rem;
+}
+
+.mt-3 {
+  margin-top: 3rem;
 }
 
 .mt-4 {
@@ -474,12 +502,44 @@ img {
   margin-bottom: 4.5rem;
 }
 
+.o-10 {
+  opacity: 0.1;
+}
+
+.o-30 {
+  opacity: 0.3;
+}
+
+.o-50 {
+  opacity: 0.5;
+}
+
+.o-70 {
+  opacity: 0.7;
+}
+
+.o-90 {
+  opacity: 0.9;
+}
+
 .br {
   border-radius: 20px;
 }
 
+.br-xs {
+  border-radius: 5px;
+}
+
+.br-lg {
+  border-radius: 40px;
+}
+
 .display-f {
   display: flex;
+}
+
+.display-i-b {
+  display: inline-block;
 }
 
 .font-sm {
