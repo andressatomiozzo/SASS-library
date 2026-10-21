@@ -95,43 +95,43 @@ img {
   }
 }
 .text-primary {
-  color: #326dee;
+  color: indigo;
 }
 
 .bg-primary {
-  background-color: #326dee;
+  background-color: indigo;
 }
 
 .bg-primary-light-2 {
-  background-color: rgb(35.6862745098%, 54.1960784314%, 94.6666666667%);
+  background-color: #6f339b;
 }
 
 .bg-primary-light-4 {
-  background-color: rgb(51.7647058824%, 65.6470588235%, 96%);
+  background-color: #9366b4;
 }
 
 .bg-primary-light-6 {
-  background-color: rgb(67.8431372549%, 77.0980392157%, 97.3333333333%);
+  background-color: #b799cd;
 }
 
 .bg-primary-light-8 {
-  background-color: rgb(83.9215686275%, 88.5490196078%, 98.6666666667%);
+  background-color: #dbcce6;
 }
 
 .bg-primary-dark-2 {
-  background-color: rgb(15.6862745098%, 34.1960784314%, 74.6666666667%);
+  background-color: #3c0068;
 }
 
 .bg-primary-dark-4 {
-  background-color: rgb(11.7647058824%, 25.6470588235%, 56%);
+  background-color: #2d004e;
 }
 
 .bg-primary-dark-6 {
-  background-color: rgb(7.8431372549%, 17.0980392157%, 37.3333333333%);
+  background-color: #1e0034;
 }
 
 .bg-primary-dark-8 {
-  background-color: rgb(3.9215686275%, 8.5490196078%, 18.6666666667%);
+  background-color: #0f001a;
 }
 
 .text-secondary {
@@ -274,10 +274,10 @@ img {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  background-color: #326dee;
+  background-color: indigo;
 }
 .btn-primary:hover {
-  background-color: rgb(28.8420773715%, 49.3216746158%, 94.0990990991%);
+  background-color: rgb(35.1809954751%, 0%, 60.9803921569%);
 }
 
 .btn-complement-primary {
@@ -287,12 +287,12 @@ img {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  background-color: #326dee;
-  color: rgb(97.9279279279%, 90.7366189719%, 75.0132485427%);
+  background-color: indigo;
+  color: rgb(48.6425339367%, 100%, 10.9803921569%);
 }
 .btn-complement-primary:hover {
-  color: #326dee;
-  background-color: rgb(97.9279279279%, 90.7366189719%, 75.0132485427%);
+  color: indigo;
+  background-color: rgb(48.6425339367%, 100%, 10.9803921569%);
 }
 
 .btn-secondary {
@@ -407,7 +407,7 @@ img {
   font-size: 1.5rem;
 }
 .navbar-primary {
-  background-color: #326dee;
+  background-color: indigo;
 }
 
 .p-0 {

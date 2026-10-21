@@ -1,16 +1,16 @@
-const { src, dest, watch, series } = require('gulp')
-const sass = require('gulp-sass')(require('sass'));
-const purgecss = require('gulp-purgecss')
+const { src, dest, watch, series } = require("gulp");
+const sass = require("gulp-sass")(require("sass"));
+const purgecss = require("gulp-purgecss");
 
 function buildStyles() {
-  return src('concha/**/*.scss')
+  return src("sass/**/*.scss")
     .pipe(sass())
-    .pipe(purgecss({ content: ['*.html']}))
-    .pipe(dest('css'))
+    .pipe(purgecss({ content: ["*.html"] }))
+    .pipe(dest("css"));
 }
 
 function watchTask() {
-  watch(['concha/**/*.scss', '*.html'], buildStyles)
+  watch(["sass/**/*.scss", "*.html"], buildStyles);
 }
 
-exports.default = series(buildStyles, watchTask)
+exports.default = series(buildStyles, watchTask);
