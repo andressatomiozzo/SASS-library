@@ -3517,7 +3517,7 @@ img {
   background-color: white;
 }
 
-.flex-layout, .navBar .container, .navBar-white .container, .navBar-black .container, .navBar-gray .container, .navBar-purple .container, .navBar-orange .container, .navBar-green .container, .navBar-yellow .container, .navBar-red .container, .navBar-blue .container, .navBar-info .container, .navBar-error .container, .navBar-secondary .container, .navBar-primary .container, .navBar, .navBar-white, .navBar-black, .navBar-gray, .navBar-purple, .navBar-orange, .navBar-green, .navBar-yellow, .navBar-red, .navBar-blue, .navBar-info, .navBar-error, .navBar-secondary, .navBar-primary {
+.flex-layout, .navbar .container, .navbar-white .container, .navbar-black .container, .navbar-gray .container, .navbar-purple .container, .navbar-orange .container, .navbar-green .container, .navbar-yellow .container, .navbar-red .container, .navbar-blue .container, .navbar-info .container, .navbar-error .container, .navbar-secondary .container, .navbar-primary .container, .navbar, .navbar-white, .navbar-black, .navbar-gray, .navbar-purple, .navbar-orange, .navbar-green, .navbar-yellow, .navbar-red, .navbar-blue, .navbar-info, .navbar-error, .navbar-secondary, .navbar-primary {
   width: 100%;
   display: flex;
   align-items: center;
@@ -3525,62 +3525,62 @@ img {
   box-sizing: border-box;
 }
 
-.navBar, .navBar-white, .navBar-black, .navBar-gray, .navBar-purple, .navBar-orange, .navBar-green, .navBar-yellow, .navBar-red, .navBar-blue, .navBar-info, .navBar-error, .navBar-secondary, .navBar-primary {
+.navbar, .navbar-white, .navbar-black, .navbar-gray, .navbar-purple, .navbar-orange, .navbar-green, .navbar-yellow, .navbar-red, .navbar-blue, .navbar-info, .navbar-error, .navbar-secondary, .navbar-primary {
   padding: 0.75rem 1.5rem;
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
-.navBar .site-title, .navBar-white .site-title, .navBar-black .site-title, .navBar-gray .site-title, .navBar-purple .site-title, .navBar-orange .site-title, .navBar-green .site-title, .navBar-yellow .site-title, .navBar-red .site-title, .navBar-blue .site-title, .navBar-info .site-title, .navBar-error .site-title, .navBar-secondary .site-title, .navBar-primary .site-title {
+.navbar .site-title, .navbar-white .site-title, .navbar-black .site-title, .navbar-gray .site-title, .navbar-purple .site-title, .navbar-orange .site-title, .navbar-green .site-title, .navbar-yellow .site-title, .navbar-red .site-title, .navbar-blue .site-title, .navbar-info .site-title, .navbar-error .site-title, .navbar-secondary .site-title, .navbar-primary .site-title {
   font-size: 1.5rem;
 }
-.navBar-primary {
+.navbar-primary {
   background-color: #326dee;
 }
 
-.navBar-secondary {
+.navbar-secondary {
   background-color: #1ac886;
 }
 
-.navBar-error {
+.navbar-error {
   background-color: #d32752;
 }
 
-.navBar-info {
+.navbar-info {
   background-color: #f6c31c;
 }
 
-.navBar-blue {
+.navbar-blue {
   background-color: #1919e6;
 }
 
-.navBar-red {
+.navbar-red {
   background-color: #e61919;
 }
 
-.navBar-yellow {
+.navbar-yellow {
   background-color: #e6e619;
 }
 
-.navBar-green {
+.navbar-green {
   background-color: #19e635;
 }
 
-.navBar-orange {
+.navbar-orange {
   background-color: #ffa600;
 }
 
-.navBar-purple {
+.navbar-purple {
   background-color: #9900ff;
 }
 
-.navBar-gray {
+.navbar-gray {
   background-color: #808080;
 }
 
-.navBar-black {
+.navbar-black {
   background-color: black;
 }
 
-.navBar-white {
+.navbar-white {
   background-color: white;
 }
 
