@@ -3517,6 +3517,73 @@ img {
   background-color: white;
 }
 
+.flex-layout, .navBar .container, .navBar-white .container, .navBar-black .container, .navBar-gray .container, .navBar-purple .container, .navBar-orange .container, .navBar-green .container, .navBar-yellow .container, .navBar-red .container, .navBar-blue .container, .navBar-info .container, .navBar-error .container, .navBar-secondary .container, .navBar-primary .container, .navBar, .navBar-white, .navBar-black, .navBar-gray, .navBar-purple, .navBar-orange, .navBar-green, .navBar-yellow, .navBar-red, .navBar-blue, .navBar-info, .navBar-error, .navBar-secondary, .navBar-primary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.navBar, .navBar-white, .navBar-black, .navBar-gray, .navBar-purple, .navBar-orange, .navBar-green, .navBar-yellow, .navBar-red, .navBar-blue, .navBar-info, .navBar-error, .navBar-secondary, .navBar-primary {
+  padding: 0.75rem 1.5rem;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.navBar .site-title, .navBar-white .site-title, .navBar-black .site-title, .navBar-gray .site-title, .navBar-purple .site-title, .navBar-orange .site-title, .navBar-green .site-title, .navBar-yellow .site-title, .navBar-red .site-title, .navBar-blue .site-title, .navBar-info .site-title, .navBar-error .site-title, .navBar-secondary .site-title, .navBar-primary .site-title {
+  font-size: 1.5rem;
+}
+.navBar-primary {
+  background-color: #326dee;
+}
+
+.navBar-secondary {
+  background-color: #1ac886;
+}
+
+.navBar-error {
+  background-color: #d32752;
+}
+
+.navBar-info {
+  background-color: #f6c31c;
+}
+
+.navBar-blue {
+  background-color: #1919e6;
+}
+
+.navBar-red {
+  background-color: #e61919;
+}
+
+.navBar-yellow {
+  background-color: #e6e619;
+}
+
+.navBar-green {
+  background-color: #19e635;
+}
+
+.navBar-orange {
+  background-color: #ffa600;
+}
+
+.navBar-purple {
+  background-color: #9900ff;
+}
+
+.navBar-gray {
+  background-color: #808080;
+}
+
+.navBar-black {
+  background-color: black;
+}
+
+.navBar-white {
+  background-color: white;
+}
+
 .p-0 {
   padding: 0;
 }
